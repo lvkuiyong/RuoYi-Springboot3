@@ -18,7 +18,7 @@ spring:
                 url: jdbc:mysql://localhost:3306/ry-vue?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
                 # 数据库地址
                 username: root
-				# 数据库账号
+                # 数据库账号
                 password: 123456
                 # 数据库密码
             statViewServlet:
